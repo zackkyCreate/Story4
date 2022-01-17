@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-zombie
-=======
-zombie2
->>>>>>> zombie
+pant1
