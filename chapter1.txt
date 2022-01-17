@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 kenapaaahahaahhahahahahha
+=======
+lagi
+>>>>>>> alien-plot
