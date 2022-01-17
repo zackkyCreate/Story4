@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 zombie
+=======
+zombie2
+>>>>>>> zombie
